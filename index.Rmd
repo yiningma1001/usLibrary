@@ -1,5 +1,5 @@
 --- 
-title: "US Library Analysis"
+title: "US Libraries Analysis"
 author: "Yi Zhuang, Yuanyi Hu, Yining Ma"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
